@@ -11,3 +11,11 @@
     </a>
   </p>
 </div>
+
+# Important
+
+* signing data and verifying signatures, here is [EdDSA Signature](https://en.wikipedia.org/wiki/EdDSA)
+
+* rollup state and [merkle tree](https://en.wikipedia.org/wiki/Merkle_tree). all state in rollup chain is stored in Merkle Tree and state root stored on chain only changed by submit a batch/proof
+
+![image](https://user-images.githubusercontent.com/70309026/165551509-2cece708-0f81-48f6-9be8-d456be026df5.png)
